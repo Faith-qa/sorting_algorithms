@@ -37,8 +37,6 @@ void selection_sort(int *array, size_t size)
 			/*print sorted array*/
 			print_array(array, size);
 		}
-		else
-			break;
 
 	}
 }
